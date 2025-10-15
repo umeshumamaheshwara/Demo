@@ -1,0 +1,8 @@
+bash <(curl -sL https://tinyurl.com/munbkzpb)   workernode
+
+bash <(curl -sL https://tinyurl.com/mse8n4k6)    masternode
+
+
+
+
+
